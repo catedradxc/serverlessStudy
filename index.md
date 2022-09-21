@@ -12,14 +12,16 @@
 	3.3 Cloud provider options, why AWS and consecuences of choose one or other...
 	
 4. Related work (from microservices to Fargate -> to AWS lambda)
+
 	Showcase and relate the made experiments
-	iterative{
-		from a simple case demonstrating that even though it is simple there are difficulties
-		migrate it to Fargate
-		migrate it to AWS Lambda
-		performance test and cost analysis
-		add complexity (persistence layer, more interactions between services, asynchronous communication ...) repeat it
-	}
+	iterative:
+	
+		- from a simple case demonstrating that even though it is simple there are difficulties
+		- migrate it to Fargate
+		- migrate it to AWS Lambda
+		- performance test and cost analysis
+		- add complexity (persistence layer, more interactions between services, asynchronous communication ...) repeat it
+	
 	
 5. Observations obtained during the process (cuestiones mas criticas / dolores de cabeza / consejos / guidelines / decisiones tomadas)
 	- Facing initial obstacles (program language, too large services, ...)
