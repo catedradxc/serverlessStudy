@@ -8,5 +8,6 @@ You may be interested on the following section:
 
 - [Routemap to follow our steps](https://github.com/catedradxc/serverlessStudy/wiki)
 - [Study index prototype](https://github.com/catedradxc/serverlessStudy/blob/main/index.md)
+- [Related bibliography](https://github.com/catedradxc/serverlessStudy/wiki/Bibliography)
 - [Repository hub](https://github.com/catedradxc)
 - [Detailed records of related work](https://github.com/catedradxc/serverlessStudy/wiki)
